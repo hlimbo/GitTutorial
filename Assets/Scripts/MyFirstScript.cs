@@ -6,6 +6,7 @@ public class MyFirstScript : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+		# Hi
 		
 	}
 	
